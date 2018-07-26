@@ -1,0 +1,1 @@
+docker build -t envoy-cosmos:0.1.0 .
