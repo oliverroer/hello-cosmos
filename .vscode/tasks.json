@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/HelloCosmos.csproj"
+                "${workspaceFolder}/app/src/HelloCosmos.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
